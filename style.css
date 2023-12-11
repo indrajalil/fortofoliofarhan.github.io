@@ -1,0 +1,14 @@
+.jumbotron {
+    padding-top: 4rem;
+    background-color: #f3f4f5;
+}
+#projects {
+    background-color: #f3f4f5;
+}
+section{
+    padding-top: 5rem;
+}
+.card .card1-img-top{
+    filter: blur(8px);
+    -webkit-filter: blur(8px);  
+}
